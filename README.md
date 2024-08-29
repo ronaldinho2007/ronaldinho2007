@@ -6,7 +6,8 @@
    
 - 📫 Me contate por bwxp77@gmail.com
   
-- ⚡× 
+- ⚡× <iframe src="https://giphy.com/embed/AUmYTeaEuVkcM" width="480" height="269" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/brazil-ronaldinho-gaucho-AUmYTeaEuVkcM">via GIPHY</a></p>
+
 
 <!---
 ronaldinho2007/ronaldinho2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
