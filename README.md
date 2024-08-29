@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @ronaldinho2007 vuglo geovane
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👋 sou Geovane Lopes
+
+- % Tenho 17 anos
+
+- 🌱 Atualmene Estudo na Escola Adalberto Mecca Sampaio
+   
+- 📫 Me contate por bwxp77@gmail.com
+  
+- ⚡× 
 
 <!---
 ronaldinho2007/ronaldinho2007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
