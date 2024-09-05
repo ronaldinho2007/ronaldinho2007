@@ -6,7 +6,8 @@
    
 - 📫 Me contate por bwxp77@gmail.com
   
-![ronaldinho-terraria](https://github.com/user-attachments/assets/bd9d19af-72ce-4ef2-a769-b778e82db7b5)
+
+![el-choro-ronaldinho-dancing](https://github.com/user-attachments/assets/fe3d92f0-512b-4092-9bbe-38e3013c9292)
 
 
 <!---
